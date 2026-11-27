@@ -1,0 +1,4 @@
+﻿seed,protocol,threshold,baseline_best_epoch,baseline_best_dice,hard_sampling_best_epoch,hard_sampling_best_dice,dice_delta,baseline_source,hard_sampling_source
+42,256x256_center_crop_validation_best_epoch,0.73,15,0.8493571129618875,14,0.8542265244862672,0.0048694115243796965,outputs/lesson46/baseline_history.csv,outputs/lesson46/hard_sampling_history.csv
+43,256x256_center_crop_validation_best_epoch,0.73,14,0.8456646109914833,13,0.8551282416778325,0.009463630686349256,outputs/lesson47/seed_43/baseline_history.csv,outputs/lesson47/seed_43/hard_sampling_history.csv
+44,256x256_center_crop_validation_best_epoch,0.73,11,0.8439251853574105,14,0.8469080500991292,0.002982864741718716,outputs/lesson47/seed_44/baseline_history.csv,outputs/lesson47/seed_44/hard_sampling_history.csv
