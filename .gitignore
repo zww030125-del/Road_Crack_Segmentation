@@ -21,3 +21,4 @@ demo_images/
 # 临时文件
 *.log
 .DS_Store
+/简历.txt
